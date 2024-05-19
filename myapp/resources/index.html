@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>NeutralinoJs sample app</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div id="neutralinoapp" style="padding: 2%;">
+      <form action="javascript:;" onsubmit=" Generate() ">
+        <label for="fname" id="name">Full line from SW inventory</label><br>
+        <input type="text" id="fname" name="fname" value="" style="padding: 0.6%;" ><br>
+        <input class="button-23" role="button" style="width: 25%; margin-top: 2%; margin-bottom: 2%; padding: 1%;" type="submit" value="Generate config">
+      </form>
+
+      <button style="margin-bottom: 5px;" onclick="Copy()">Copy</button>
+      <div style="text-align: center;">
+      <textarea name="config" id="output">
+        saddasdsa
+        sssssdadsadas
+        asdasdasdas
+        asdasdasdd
+
+        
+      </textarea>
+    </div>
+    </div>
+    <!-- Neutralino.js client. This file is gitignored, 
+        because `neu update` typically downloads it.
+        Avoid copy-pasting it. 
+        -->
+    <script src="js/neutralino.js"></script>
+    <!-- Your app's source files -->
+    <script src="js/main.js"></script>
+  </body>
+</html>

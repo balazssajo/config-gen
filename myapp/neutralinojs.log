@@ -1,0 +1,105 @@
+INFO 2024-05-19 09:21:22,558 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 09:21:24,343 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:29:21,832 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 09:29:23,725 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:31:06,647 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 09:31:08,192 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:31:49,323 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 09:31:50,853 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:34:38,887 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 09:34:40,391 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:37:03,559 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 09:37:05,678 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:38:00,134 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:38:07,617 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 09:38:09,054 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:39:18,111 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 09:39:19,648 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 09:39:32,682 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:40:06,863 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:40:16,677 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 09:40:18,178 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:44:11,202 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 09:44:12,743 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:44:34,603 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:45:01,979 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:46:03,693 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:46:17,710 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 09:46:19,524 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:49:06,484 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 09:49:08,218 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:49:53,706 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 09:49:55,277 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:55:15,763 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 09:55:17,141 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:55:55,787 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 09:55:57,377 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:57:33,669 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:57:52,485 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 09:57:54,134 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:59:18,158 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 09:59:19,746 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:59:24,244 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:59:34,213 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 09:59:59,201 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:00:17,895 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:03:28,860 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 10:03:30,812 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:03:51,343 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:04:14,520 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:04:25,561 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:04:38,906 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:05:44,667 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 10:05:46,148 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:06:40,466 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:07:13,937 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:07:28,616 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:07:59,001 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:08:16,745 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:08:36,667 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:08:45,640 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:08:54,707 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:10:15,681 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:10:32,384 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:11:19,709 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:11:38,068 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:30:15,607 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 10:30:17,152 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:30:56,940 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:31:37,887 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:31:56,401 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:32:10,510 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:32:33,463 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:33:52,486 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:35:06,829 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:36:02,044 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:36:22,558 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 10:36:24,545 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:37:49,210 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:38:06,859 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+ERROR 2024-05-19 10:38:08,399 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:38:53,236 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:39:21,795 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:39:49,425 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:42:01,124 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:42:53,332 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:43:02,782 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:43:37,697 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:43:49,186 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:44:14,071 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:44:55,309 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:45:39,891 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:45:50,604 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:46:42,611 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:47:49,509 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:48:09,257 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:48:27,075 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:50:43,020 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:50:54,040 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:52:30,651 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:52:39,882 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:53:54,907 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:54:32,978 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:54:42,899 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:55:10,654 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
+INFO 2024-05-19 10:55:55,409 Reloading the application... api\debug\debug.cpp:17 balaz@LAPTOP-GS1KO6P7
